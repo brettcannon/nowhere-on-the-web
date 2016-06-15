@@ -1,3 +1,6 @@
+||adblade.com^
 ||outbrain.com^
+||revcontent.com^
 ||taboola.com^
+||taboolasyndication.com^
 ||zergnet.com^
